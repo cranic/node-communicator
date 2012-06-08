@@ -71,7 +71,8 @@ app.js
     app.use(com.express({
         debug : true, //enabling debug messages, default: false
         endpoint : '/api', //change de endpoint of the api, default: '/api'
-        version : '1.0' //change the endpoint version, default: '1.0'
+        version : '1.0', //change the endpoint version, default: '1.0'
+        folder : './rpc' //the folder containing the methods
     }));
 
     app.get('/', function(req, res){
