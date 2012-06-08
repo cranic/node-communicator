@@ -1,0 +1,26 @@
+{
+    "author": {
+        "name": "Alan Hoffmeister",
+        "email": "contato@cranic.com.br",
+        "url": "https://github.com/cranic"
+    },
+    "name": "communicator",
+    "description": "RPC communication protocol for Node.js",
+    "version": "0.0.1",
+    "homepage": "https://github.com/cranic/node-communicator",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/cranic/node-communicator.git"
+    },
+    "dependencies": {
+        "async": "0.1.x",
+        "coffee-script" : "1.3.x",
+        "jstoxml": "0.1.x",
+        "xml2js" : "0.1.x"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
