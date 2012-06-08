@@ -99,7 +99,7 @@ Now we are good to go, spin up you `app.js` and start making your requests:
         "error": false,
         "message": "Echo system.",
         "params": {
-            "lol": "kel"
+            "foo": "bar"
         }
     }
 
