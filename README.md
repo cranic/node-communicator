@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cranic/node-communicator.png)](http://travis-ci.org/cranic/node-communicator)
 node-communicator
 =================
 
